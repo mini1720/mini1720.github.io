@@ -75,7 +75,7 @@ $_SESSION['sender']=$_SESSION['user'];
             <div class="collapse navbar-collapse" id="navbarTogglerDemo02" style="float:right;">
                 <ul class="navbar-nav ml-auto font-weight-bold"  style="font-size:small; color:pink; ">
                 <li class="nav-item">
-                        <a class="nav-link " href="index.php" style="color:#800000;font-weight:1em;">
+                        <a class="nav-link " href="index.html" style="color:#800000;font-weight:1em;">
                             <div style="padding-right:0px;" >
                                 <!-- <img height="60"src="./images/hicon.png"> -->
                             </div>
